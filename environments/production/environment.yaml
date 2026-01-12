@@ -2,7 +2,7 @@ version: 1.0
 app:
   # build id to deploysssvvv
   # adding comments to get a new pr
-  # version: 1.0-SNAPSHOT-20230716015630
+  version: "74b19480-87da-490d-b64c-1cf9c14798fb"
   # number of instances 
   instances:
     # q: consider availability zones? 
