@@ -1,7 +1,7 @@
 version: 1.0
 app:
   # build id to deploy 
-  version: ""
+  version: "21ecfbc7-287b-40f3-9a37-d6aaeec23341"
   # number of instances
   instances:
     # q: consider availability zones? 
